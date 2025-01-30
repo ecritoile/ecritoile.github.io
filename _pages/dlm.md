@@ -1,5 +1,5 @@
 ---
-permalink: /DLM/
+permalink: /dlm/
 title: "Digital Literacy Narrative"
 ---
 
