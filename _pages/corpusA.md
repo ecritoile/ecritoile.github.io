@@ -1,0 +1,44 @@
+---
+permalink: /corpusA/
+title: "Corpus Assignment"
+---
+
+Corpus Assignment
+
+Introduction
+
+What if we could separate our work life and personal life? Severance is an American television show that takes this common desire and cranks the dial to eleven. The premise of Severance involves the development of a technology that has allowed this desire to be literally realized—workers can undergo the eponymous “severance” procedure to surgically separate their workplace and non-work memories, thus resulting in two separate personalities. The show follows Mark Scout, a severed worker who leads a team of other severed workers (Helly, Dylan, and Irving) in Lumon Industries’ Macrodata Refinement department. As questions arise concerning their workplace and severance, a thrilling journey in search of truths starts to unfold for Mark and the team.
+
+Though the first season of Severance released in 2022, I watched the show for the first time earlier this year. I was immediately hooked. I found everything about the show, from the eccentric characters and the off-kilter workplace dynamics between them to the emerging questions of agency and neoliberalism, simply mesmerizing. I binged all nine episodes of the season in a few days and was beyond relieved to learn that Season 2 had just started being released weekly. As I eagerly await the next episode, I found myself drawn to the prospect of studying a corpus of Season 1’s subtitles. What kinds of findings can a distant reading of a show’s subtitles yield—especially when the show is one laden with subtlety and deception at every corner?
+
+Voyant Tools
+
+I was able to track down the subtitle files for all nine episodes on Open Subtitles. A step that I had to take was converting the files from their native format of SRT to TXT, which was done with the aid of GoTranscript, a website I found online. I found it notable that though I was starting with digital material (transcript files), I still had to take care to ensure that it was in the proper format (.txt) before I could begin the study—I recognized this as a step of mediation, a fundamental activity of digital humanities research, As described by Johanna Drucker in the introductory chapter of The Digital Humanities Coursebook, “[b]orn-digital materials are also highly mediated and decisions about their formats are crucial to their use as well” (3).
+
+I put the compiled folder of nine files—one for each episode—into Voyant Tools (processing), and this is what it showed me (presentation):
+
+Image 1
+
+What I immediately realized from seeing the word cloud was that Voyant Tools seemed to reveal much less than it had done for the other corpuses we had tested in class. Even with the implementation of the default list of stopwords, the most frequent words in the corpus were: i'm (255); know (226); it's (226); just (200); okay (194). One can also spot the names of the main characters, like “Mark” and “Helly” in the word cloud. They were words that did little to reveal anything of interest; they were words used in conversations. This lack of immediate findings was due to the fact that the subtitles of the show consist entirely of dialogue. 
+
+Though this is obvious in hindsight, it was a factor and characteristic that I hadn’t acknowledged or really been aware of prior. It was a moment in which I found myself reflecting about the unique nature of writing a screenplay—so much must be conveyed to the audience through the dialogue exchanged by and between characters, dialogue that must be at once expository and effusive yet believable and natural. Viewing the show only through its dialogue was in itself an enlightening experience.
+
+I found the Summary tab to be a little more enlightening in the statistics it provided regarding the files:
+
+Image 2
+
+As shown here, the first three episodes of the season are the longest in document length—though I was tempted to draw meaning from this, these stats actually coincide with the actual lengths of the episodes. Episodes 1 to 3 are all longer than 50 minutes, which makes them longer than the other six episodes (they are all 40-49 minutes). Instead, take a look at the Average Words Per Sentence statistic: it again lists the first three episodes as having the most words per sentence on average. I believe this to be a reflection of how there is more to be done in the earlier episodes of a show in terms of worldbuilding—this requires more exposition to be done through dialogue, thus resulting in wordier sentences. I also found it interesting that the first episode has the lowest vocabulary density despite being one of the longest episodes. I believe this also has to do with the pressing case of worldbuilding—certain words are repeated in the dialogue to build, label, and emphasize parts of the world of Severance.
+
+The next thing I did was to add more stopwords in the hopes of narrowing the data down to more interesting terms. I added frequent words that I found to be less important (some examples are: i'm; know; it's; just; okay; yeah; like; right; oh; you're; sorry; think; that's). This is what the word cloud looked like after adding more than thirty terms to the stopword list:
+
+Image 3
+
+The adjusted word cloud did look more interesting—for example, the frequency of character names seems to be a good indicator of the size of the role they play in the show. Mark, being the main character, is referred to the most (146). He is followed by Helly (79), with Dylan (47) and Irving (36) bringing up the rear of the quartet. This matches my experience with the show—the four members of the team have varying screen time, which corresponds with said differences in frequency.
+
+Other important proper nouns seen here are Lumon, the name of the company that Mark works at, and Kier, the name of the founder of Lumon (it should be noted that Kier is not a character in the show—his descendents run Lumon, but he has been long gone). The frequency with which Lumon (50) and Kier (30) are referred to is indicative of their presence throughout the setting(s) of the show. I find this to be in direct connection with Severance’s messages on neoliberalism, especially about corporate control and its encroachment upon the private sphere of the individual. The frequency makes further sense given that Lumon employs cult-like practices in glorifying Lumon, deifying Kier, and indoctrinating its severed workers on its lore and myths. Characters are often seen quoting Kier, for instance.
+
+Another interesting observation: I was curious about the difference in frequency between the words “innie” and “outie,” which are the respective terms used by characters in the show to refer to the “work life” and “personal/non-work life” portions of a severed individual. This was what a quick search showed:
+
+Image 4, 5
+
+Though the context varies, “outie” is usually spoken by innies and “innie” by outies. In other words, innies talk about their outies and vice versa. As shown above, the word “outie” is spoken much more often than “innie.” From this, it can be concluded that innies think and talk about their outies much more than outies do with innies. There is thus a comparable lack of acknowledgment concerning the existence of innies, much less their individuality and right to life—innies are aware (and continually told) that their existence predicates on their outie, while outies often regard innies as a simple means to an end, and as fundamentally lesser. This relationship is central to Severance and is a focal point of interest and debate—it is fascinating to see how it can also be observed through such distant reading.
