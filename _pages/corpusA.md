@@ -42,3 +42,21 @@ Another interesting observation: I was curious about the difference in frequency
 Image 4, 5
 
 Though the context varies, “outie” is usually spoken by innies and “innie” by outies. In other words, innies talk about their outies and vice versa. As shown above, the word “outie” is spoken much more often than “innie.” From this, it can be concluded that innies think and talk about their outies much more than outies do with innies. There is thus a comparable lack of acknowledgment concerning the existence of innies, much less their individuality and right to life—innies are aware (and continually told) that their existence predicates on their outie, while outies often regard innies as a simple means to an end, and as fundamentally lesser. This relationship is central to Severance and is a focal point of interest and debate—it is fascinating to see how it can also be observed through such distant reading.
+
+RMarkdown
+
+Shifting over to the RMarkdown notebook Identifying the Most Distinctive in Three (Sets) of Texts, I compiled and split the nine subtitle files into three texts: one of Episodes 1-3, one of 4-6, and one of 7-9 (I will refer to them as E1-3, E4-6, and E7-9 henceforth). I input these three text files into the notebook to compare the word usage proportions between texts. These are the graphs it yielded:
+
+Image 6
+
+The two graphs show the word usage proportions of E4-6 and 7-9 to that of 1-3. The biggest observation that can be made here is that one can see which characters, themes, and set pieces become more or less prominent as the season progresses.
+
+For example, “Burt,” the name of another character, can be seen in the bottom right quadrant for both graphs, meaning that he becomes more important in E4-6 (>0.30%) than he is in E1-3 (>0.05%), and only more so in E7-9 (>0.50%). This tracks, as Burt is first introduced in Episode 2 in a brief scene and only appears again from Episode 4. Burt’s main character arc has to do with his relationship with Irving—and as their relationship grows, so does the character’s prominence in the show.
+
+Mark is in the top right quadrant for both graphs, meaning that he is referred to very often (only after “yeah,” it seems) and is thus important throughout the whole season. The node is on or near the line of equality for both graphs, which means that his importance as a character remains consistent throughout the show. He is the main character, after all.
+
+One character that actually decreases in importance is Petey, as he makes a physical appearance in the show only from Episodes 1 to 3. His name can accordingly be found on the “left” side of the line of equality in the first graph, meaning that he is referred to less in E4-6 than E1-3. It only moves close to the y-axis in the second graph, which signals how his presence further fades.
+
+A broader observation is that most characters are on the “right” side of the line of equality (even Mark is referred to more in E7-9). I believe that this signals not just the rising importance of individual characters but also the rising tensions and stakes of the overall plot, as characters increasingly develop and act on their purposes and desires.
+
+An instance of a non-character word is “book,” which strays far from the line of equality in the second graph, meaning that the word is spoken much more often in E7-9 (~0.30%) than E1-3 (~0.03%). “Book” refers to an in-universe book named the “The You You Are,” a self-help book that has a profound impact on the innies and prompts them to ponder on their agency and individuality.
