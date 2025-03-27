@@ -60,3 +60,7 @@ One character that actually decreases in importance is Petey, as he makes a phys
 A broader observation is that most characters are on the “right” side of the line of equality (even Mark is referred to more in E7-9). I believe that this signals not just the rising importance of individual characters but also the rising tensions and stakes of the overall plot, as characters increasingly develop and act on their purposes and desires.
 
 An instance of a non-character word is “book,” which strays far from the line of equality in the second graph, meaning that the word is spoken much more often in E7-9 (~0.30%) than E1-3 (~0.03%). “Book” refers to an in-universe book named the “The You You Are,” a self-help book that has a profound impact on the innies and prompts them to ponder on their agency and individuality.
+
+Conclusion
+
+Such is an attempt to investigate Severance by conducting a distant reading on its subtitles (its dialogue) by using Voyant Tools and R. The main obstacle I faced is the aforementioned difficulty I sensed when I saw the initial Voyant Tools page. Though I was able to somewhat work around it (by implementing more stopwords, for instance), it was a challenge to draw meaningful conclusions from conducting a distant reading on fully-dialogue texts. This difficulty was something I sensed in comparison to the exercises we had done using Gutenburg files—it can be concluded, then, that the type of the text is a major factor in how effective and useful a distant reading can be.
