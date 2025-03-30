@@ -29,7 +29,7 @@ As shown here, the first three episodes of the season are the longest in documen
 
 The next thing I did was to add more stopwords in the hopes of narrowing the data down to more interesting terms. I added frequent words that I found to be less important (some examples are: i'm; know; it's; just; okay; yeah; like; right; oh; you're; sorry; think; that's). This is what the word cloud looked like after adding more than thirty terms to the stopword list:
 
-![Image 3](/assets/images/Corpus/c3.png "Image 3")
+<iframe style='width: 751.5px; height: 619.5px;' src='https://voyant-tools.org/tool/Cirrus/?stopList=keywords-0e72f3f0e64e96b023a9fdeb5f2cf565&whiteList=&visible=75&corpus=411ca7a332b564d5b3fd48d9d97bce61'></iframe>
 
 The adjusted word cloud did look more interesting—for example, the frequency of character names seems to be a good indicator of the size of the role they play in the show. Mark, being the main character, is referred to the most (146). He is followed by Helly (79), with Dylan (47) and Irving (36) bringing up the rear of the quartet. This matches my experience with the show—the four members of the team have varying screen time, which corresponds with said differences in frequency.
 
