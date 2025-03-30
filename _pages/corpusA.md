@@ -2,6 +2,7 @@
 permalink: /corpusA/
 title: "Corpus Assignment"
 ---
+A distant reading of the subtitles of *Severance*.
 
 ## Introduction
 
