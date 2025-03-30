@@ -37,8 +37,7 @@ Other important proper nouns seen here are Lumon, the name of the company that M
 
 Another interesting observation: I was curious about the difference in frequency between the words “innie” and “outie,” which are the respective terms used by characters in the show to refer to the “work life” and “personal/non-work life” portions of a severed individual. This was what a quick search showed:
 
-![Image 4a](/assets/images/Corpus/c4a.png "Image 4a")
-![Image 4b](/assets/images/Corpus/c4b.png "Image 4b")
+![Image 4](/assets/images/Corpus/c4.png "Image 4")
 
 Though the context varies, “outie” is usually spoken by innies and “innie” by outies. In other words, innies talk about their outies and vice versa. As shown above, the word “outie” is spoken much more often than “innie.” From this, it can be concluded that innies think and talk about their outies much more than outies do with innies. There is thus a comparable lack of acknowledgment concerning the existence of innies, much less their individuality and right to life—innies are aware (and continually told) that their existence predicates on their outie, while outies often regard innies as a simple means to an end, and as fundamentally lesser. This relationship is central to *Severance* and is a focal point of interest and debate—it is fascinating to see how it can also be observed through such distant reading.
 
