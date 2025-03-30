@@ -1,4 +1,6 @@
 main:
+  - title: "Corpus Assignment"
+    url: /corpusA/
   - title: "DLN"
     url: /dln/
   - title: "Posts"
