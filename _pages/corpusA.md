@@ -3,11 +3,9 @@ permalink: /corpusA/
 title: "Corpus Assignment"
 ---
 
-# Corpus Assignment
-
 ## Introduction
 
-What if we could separate our work life and personal life? *Severance* is an American television show that takes this common desire and cranks the dial to eleven. The premise of *Severance* involves the development of a technology that has allowed this desire to be literally realized—workers can undergo the eponymous “*severance*” procedure to surgically separate their workplace and non-work memories, thus resulting in two separate personalities. The show follows Mark Scout, a severed worker who leads a team of other severed workers (Helly, Dylan, and Irving) in Lumon Industries’ Macrodata Refinement department. As questions arise concerning their workplace and *severance*, a thrilling journey in search of truths starts to unfold for Mark and the team.
+What if we could separate our work life and personal life? *Severance* is an American television show that takes this common desire and cranks the dial to eleven. The premise of *Severance* involves the development of a technology that has allowed this desire to be literally realized—workers can undergo the eponymous “severance” procedure to surgically separate their workplace and non-work memories, thus resulting in two separate personalities. The show follows Mark Scout, a severed worker who leads a team of other severed workers (Helly, Dylan, and Irving) in Lumon Industries’ Macrodata Refinement department. As questions arise concerning their workplace and severance, a thrilling journey in search of truths starts to unfold for Mark and the team.
 
 Though the first season of *Severance* released in 2022, I watched the show for the first time earlier this year. I was immediately hooked. I found everything about the show, from the eccentric characters and the off-kilter workplace dynamics between them to the emerging questions of agency and neoliberalism, simply mesmerizing. I binged all nine episodes of the season in a few days and was beyond relieved to learn that Season 2 had just started being released weekly. As I eagerly await the next episode, I found myself drawn to the prospect of studying a corpus of Season 1’s subtitles. What kinds of findings can a distant reading of a show’s subtitles yield—especially when the show is one laden with subtlety and deception at every corner?
 
