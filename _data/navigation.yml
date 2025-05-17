@@ -1,6 +1,8 @@
 main:
   - title: "Corpus Assignment"
     url: /corpusA/
+  - title: "Spatial Assignment"
+    url: /posts/
   - title: "DLN"
     url: /dln/
   - title: "Posts"
